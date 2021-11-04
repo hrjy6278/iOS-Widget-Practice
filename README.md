@@ -62,7 +62,7 @@ Swift UI를 사용한 위젯 연습
         - supportedFamilies 
         위젯이 어떤 사이즈에 대응하는지 나타낸다.
         - 해당 설정들을 하면 위젯을 추가하는 부분에 정보들이 나타난다.
-          
+          ![asd](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/771b1082-2088-4c7c-9d54-ebe8c14c406e/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20211104%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20211104T033355Z&X-Amz-Expires=86400&X-Amz-Signature=1c7dbbe562f379c0ba6622ff570676506700e179e0bb4d269c5499307fec7b1f&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22)
      
 
 
