@@ -15,7 +15,7 @@ Swift UI를 사용한 위젯 연습
 - 사용자가 위젯을 쌓고 `Smart Rotate` 를 활성화하면 가장 관련성이 높은 위젯을 맨 위로 자동으로 회전하여 사용자가 정확한 시간에 가장 중요한 세부 정보를 볼 수 있도록 한다.
 - 위젯을 구현하려면 앱에 Widget Extension을 추가합니다. `Timeline Provider`로 위젯을 구성하고 `Swift UI` `View` 를 사용하여 위젯의 콘텐츠를 표시합니다. `Timeline Provider` 는 위젯 콘텐츠를 업데이트 할 시기를 `Widget Kit`에 알려줍니다.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/9192a70e-48b5-4ae9-a8f1-6cef76dd5c2e/Untitled.png)
+![Untitled](https://user-images.githubusercontent.com/71247008/140253522-178e7112-75f0-47cc-97bd-18b586611c33.png)
 
 - 위젯을 사용자 구성 가능하게 만들려면 Extention에 `custom SiriKit` 정의를 추가합니다. `WidgetKit`은 사용자가 위젯을 개인화 할 수 있도록 사용자 정의 인터페이스를 자동으로 제공합니다.
 
@@ -64,7 +64,6 @@ Swift UI를 사용한 위젯 연습
         - 해당 설정들을 하면 위젯을 추가하는 부분에 정보들이 나타난다.
           
      
-![Untitled](https://user-images.githubusercontent.com/71247008/140253522-178e7112-75f0-47cc-97bd-18b586611c33.png)
 
 
 ### Provide Timeline Entires
